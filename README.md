@@ -32,7 +32,7 @@
 - Node.js version v20.14.0
 
 
-**Instalation:**
+**Installation:**
 
 1. Clone the repository from your local terminal
 
