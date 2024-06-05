@@ -1,4 +1,6 @@
-# Worldopedia is a Vue.js application that provides detailed information about countries around the world. Users can view, filter, and compare countries, as well as mark their favorite countries.
+# Worldopedia Vue.js application
+
+- Worldopedia Vue.js application that provides detailed information about countries around the world. Users can view, filter, and compare countries, as well as mark their favorite countries.
 
 **Features**
 
@@ -25,7 +27,7 @@
 - `main.css`: Global CSS styles for the application.
 
 
-## Prerequisites
+**Prerequisites**
 
 - Node.js version v20.14.0
 
@@ -35,7 +37,7 @@
 1. Clone the repository from your local terminal
 
 ```
-git clone https://github.com/your-username/worldopedia.git
+git clone https://github.com/SuzanaRistic/Worldopedia.git
 ```
 
 2. Navigate to repository
