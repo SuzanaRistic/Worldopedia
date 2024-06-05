@@ -42,7 +42,7 @@ git clone https://github.com/SuzanaRistic/Worldopedia.git
 
 2. Navigate to repository
 ```
-cd Worldopedia
+cd worldopedia
 ``` 
 
 3. Install dependencies
